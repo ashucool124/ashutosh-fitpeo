@@ -69,7 +69,7 @@ const GoalDishContainer = () => {
   return (
     <div className="flex flex-col md:w-[30%] w-full p-4 rounded-sm bg-gray-800 gap-7">
       {data.map((item) => (
-        <div className="flex justify-between">
+        <div key={item.name} className="flex justify-between">
           <div className="flex gap-2 items-center">
             <div className={item.className}>{item.icon}</div>
             <p className="text-white text-sm">{item.name}</p>

@@ -4,7 +4,6 @@ import {
   CogIcon,
   BellIcon,
   UserCircleIcon,
-  MenuIcon,
 } from "@heroicons/react/outline";
 
 const Header = () => {

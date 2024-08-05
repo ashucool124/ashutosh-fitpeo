@@ -1,7 +1,7 @@
-import Body from "./components/body";
+import Browse from "./components/Browse";
 
 function App() {
-  return <Body />;
+  return <Browse />;
 }
 
 export default App;

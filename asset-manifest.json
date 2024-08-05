@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ashutosh-fitpeo/static/css/main.1520610a.css",
-    "main.js": "/ashutosh-fitpeo/static/js/main.5ffe2070.js",
+    "main.js": "/ashutosh-fitpeo/static/js/main.4f1fa216.js",
     "static/js/453.1ad2e17a.chunk.js": "/ashutosh-fitpeo/static/js/453.1ad2e17a.chunk.js",
     "index.html": "/ashutosh-fitpeo/index.html",
     "main.1520610a.css.map": "/ashutosh-fitpeo/static/css/main.1520610a.css.map",
-    "main.5ffe2070.js.map": "/ashutosh-fitpeo/static/js/main.5ffe2070.js.map",
+    "main.4f1fa216.js.map": "/ashutosh-fitpeo/static/js/main.4f1fa216.js.map",
     "453.1ad2e17a.chunk.js.map": "/ashutosh-fitpeo/static/js/453.1ad2e17a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1520610a.css",
-    "static/js/main.5ffe2070.js"
+    "static/js/main.4f1fa216.js"
   ]
 }
